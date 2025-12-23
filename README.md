@@ -8,7 +8,7 @@ Software Engineer @ **Lawline**
 | [Planning Survey](https://github.com/novrion/Planning-Survey-Documentation) | documentation and C++ lib of a database of the Swedish industry |
 | [awb.nvim](https://github.com/novrion/awb.nvim) | neovim plugin for fast in-file AI assistance |
 | [betabot](https://github.com/novrion/betabot) | negamax bitboard chess engine, ~2000 ELO |
-| [GYAR](https://github.com/novrion/GYAR) | research how effective certain optimisations are for minimax chess engines |
+| [GYAR](https://github.com/novrion/GYAR) | research efficiency of minimax chess engine optimisations |
 | [tracktui](https://github.com/novrion/tracktui) | TUI productivity tracker |
 | [SIF website](https://github.com/augie-sif/augustana-college-sif-website) | Augustana College Student Investment Fund website |
 | [Gnosis](https://github.com/kthaisociety/gnosis) | open-source VLM evaluation platform specialised in oil documents |
