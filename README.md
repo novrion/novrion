@@ -8,7 +8,7 @@ Software Engineer @ **Lawline**
 | [awb.nvim](https://github.com/novrion/awb.nvim) | neovim plugin for fast in-file AI assistance |
 | [betabot](https://github.com/novrion/betabot) | negamax bitboard chess engine, ~2000 ELO |
 | [tracktui](https://github.com/novrion/tracktui) | TUI productivity tracker |
-| [SIF website](https://github.com/novrion/augustana-college-sif-website) | Augustana College Student Investment Fund website |
+| [SIF website](https://github.com/augie-sif/augustana-college-sif-website) | Augustana College Student Investment Fund website |
 | [Planning Survey](https://github.com/novrion/Planning-Survey-Documentation) | documentation and C++ lib of a database of the Swedish industry |
 | [code-jam](https://github.com/novrion/code-jam) | framework for hosting coding tournaments |
 | [MUON](https://github.com/novrion/MUON) | Implementation of the MUON optimiser |
