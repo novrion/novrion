@@ -14,3 +14,9 @@ Software Engineer @ **Lawline**
 | [Gnosis](https://github.com/kthaisociety/gnosis) | open-source VLM evaluation platform specialised in oil documents |
 | [code-jam](https://github.com/novrion/code-jam) | framework for hosting coding tournaments |
 | [MUON](https://github.com/novrion/MUON) | Implementation of the MUON optimiser |
+
+| Paper | Link |
+| :--- | :--- |
+| Documentation of The Planning Survey and Related Databases (2025) | [PDF](https://github.com/novrion/Planning-Survey-Documentation/blob/main/Documentation%20of%20The%20Planning%20Survey%20and%20Related%20Databases%20(2025).pdf) |
+| MOSES Conversion to Object Code (2025) | [PDF](https://github.com/novrion/MOSES/blob/MOSES-1989/MOSES%20Conversion%20to%20Object%20Code%20(2025).pdf) |
+| MOSES C++ Technical Specification (2025) | [PDF](https://github.com/novrion/MOSES/blob/MOSES-1989/MOSES%20C%2B%2B%20Technical%20Specification%20(2025).pdf) |
