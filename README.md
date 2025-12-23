@@ -9,7 +9,7 @@ Software Engineer @ **Lawline**
 | [betabot](https://github.com/novrion/betabot) | negamax bitboard chess engine, ~2000 ELO |
 | [tracktui](https://github.com/novrion/tracktui) | TUI productivity tracker |
 | [SIF website](https://github.com/novrion/augustana-college-sif-website) | Augustana College Student Investment Fund website |
-| [Planning Survey](https://github.com/novrion/) | documentation and C++ lib of a database of the Swedish industry |
+| [Planning Survey](https://github.com/novrion/Planning-Survey-Documentation) | documentation and C++ lib of a database of the Swedish industry |
 | [code-jam](https://github.com/novrion/code-jam) | framework for hosting coding tournaments |
 | [MUON](https://github.com/novrion/MUON) | Implementation of the MUON optimiser |
 | [Gnosis](https://github.com/kthaisociety/gnosis) | open-source VLM evaluation platform specialised in oil documents |
