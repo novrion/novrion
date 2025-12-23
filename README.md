@@ -12,4 +12,4 @@ Software Engineer @ **Lawline**
 | [Planning Survey](https://github.com/novrion/) | documentation and C++ lib of a database of the Swedish industry |
 | [code-jam](https://github.com/novrion/code-jam) | framework for hosting coding tournaments |
 | [MUON](https://github.com/novrion/MUON) | Implementation of the MUON optimiser |
-| [Gnosis](https://github.com/KTHAIS-Gnosis/gnosis) | open-source VLM evaluation platform specialised in oil documents |
+| [Gnosis](https://github.com/kthaisociety/gnosis) | open-source VLM evaluation platform specialised in oil documents |
