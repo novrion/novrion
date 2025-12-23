@@ -11,7 +11,7 @@ Software Engineer @ **Lawline**
 | [GYAR](https://github.com/novrion/GYAR) | research efficiency of minimax chess engine optimisations |
 | [tracktui](https://github.com/novrion/tracktui) | TUI productivity tracker |
 | [SIF website](https://github.com/augie-sif/augustana-college-sif-website) | Augustana College Student Investment Fund website |
-| [Gnosis](https://github.com/kthaisociety/gnosis) | open-source VLM evaluation platform specialised in oil documents |
+| [Gnosis](https://github.com/kthaisociety/gnosis) | VLM evaluation platform specialised in oil documents |
 | [code-jam](https://github.com/novrion/code-jam) | framework for hosting coding tournaments |
 | [MUON](https://github.com/novrion/MUON) | Implementation of the MUON optimiser |
 
