@@ -1,6 +1,6 @@
 M.Sc. Engineering Mathematics @ **KTH Royal Institute of Technology**  
 Developer @ **KTH AI Society**  
-Software Engineer @ **Lawline**  
+Full Stack AI Developer @ **Lawline**  
 
 | Project | Description |
 | :--- | :--- |
